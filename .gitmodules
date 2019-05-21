@@ -22,3 +22,45 @@
 [submodule "extensions/xssfilter"]
 	path = extensions/xssfilter
 	url = git://github.com/symphonycms/xssfilter.git
+[submodule "extensions/association_field"]
+	path = extensions/association_field
+	url = https://github.com/symphonists/association_field.git
+[submodule "extensions/association_ui_editor"]
+	path = extensions/association_ui_editor
+	url = https://github.com/mazedigital/association_ui_editor.git
+[submodule "extensions/association_ui_selector"]
+	path = extensions/association_ui_selector
+	url = https://github.com/mazedigital/association_ui_selector.git
+[submodule "extensions/xmlimporter"]
+	path = extensions/xmlimporter
+	url = https://github.com/symphonists/xmlimporter.git
+[submodule "extensions/rest_api"]
+	path = extensions/rest_api
+	url = https://github.com/symphonists/rest_api.git
+[submodule "extensions/reflectionfield"]
+	path = extensions/reflectionfield
+	url = https://github.com/symphonists/reflectionfield.git
+[submodule "extensions/order_entries"]
+	path = extensions/order_entries
+	url = https://github.com/symphonists/order_entries.git
+[submodule "extensions/entry_relationship_field"]
+	path = extensions/entry_relationship_field
+	url = https://github.com/DeuxHuitHuit/entry_relationship_field.git
+[submodule "extensions/dashboard"]
+	path = extensions/dashboard
+	url = https://github.com/symphonists/dashboard.git
+[submodule "extensions/remote_datasource"]
+	path = extensions/remote_datasource
+	url = https://github.com/symphonycms/remote_datasource.git
+[submodule "extensions/cache_management"]
+	path = extensions/cache_management
+	url = https://github.com/DeuxHuitHuit/cache_management.git
+[submodule "extensions/output_field"]
+	path = extensions/output_field
+	url = https://github.com/symphonists/output_field.git
+[submodule "extensions/cacheabledatasource"]
+	path = extensions/cacheabledatasource
+	url = https://github.com/symphonists/cacheabledatasource.git
+[submodule "extensions/search_index"]
+	path = extensions/search_index
+	url = https://github.com/symphonists/search_index.git
