@@ -43,3 +43,18 @@ Additonal extensions.
 
 
 `git submodule add https://github.com/symphonists/search_index.git extensions/search_index --recursive`
+
+
+`git submodule add https://github.com/animaux/uniqueindex.git extensions/uniqueindex --recursive`
+
+
+`git submodule add https://github.com/michael-e/uniqueuploadfield.git extensions/uniqueuploadfield --recursive`
+
+
+`git submodule add https://github.com/symphonists/publish_tabs.git extensions/publish_tabs --recursive`
+
+
+`git submodule add https://github.com/nimanthaharshana/author_roles.git extensions/author_roles --recursive`
+
+
+`git submodule add https://github.com/symphonists/s3upload_field.git extensions/s3upload_field --recursive`

@@ -73,3 +73,9 @@
 [submodule "extensions/publish_tabs"]
 	path = extensions/publish_tabs
 	url = https://github.com/symphonists/publish_tabs.git
+[submodule "extensions/author_roles"]
+	path = extensions/author_roles
+	url = https://github.com/nimanthaharshana/author_roles.git
+[submodule "extensions/s3upload_field"]
+	path = extensions/s3upload_field
+	url = https://github.com/symphonists/s3upload_field.git
