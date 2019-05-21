@@ -58,3 +58,6 @@ Additonal extensions.
 
 
 `git submodule add https://github.com/symphonists/s3upload_field.git extensions/s3upload_field --recursive`
+
+
+`git submodule add https://github.com/brendo/field_metakeys.git extensions/field_metakeys --recursive`
