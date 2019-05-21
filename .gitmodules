@@ -64,3 +64,12 @@
 [submodule "extensions/search_index"]
 	path = extensions/search_index
 	url = https://github.com/symphonists/search_index.git
+[submodule "extensions/uniqueindex"]
+	path = extensions/uniqueindex
+	url = https://github.com/animaux/uniqueindex.git
+[submodule "extensions/uniqueuploadfield"]
+	path = extensions/uniqueuploadfield
+	url = https://github.com/michael-e/uniqueuploadfield.git
+[submodule "extensions/publish_tabs"]
+	path = extensions/publish_tabs
+	url = https://github.com/symphonists/publish_tabs.git
