@@ -82,3 +82,9 @@
 [submodule "extensions/field_metakeys"]
 	path = extensions/field_metakeys
 	url = https://github.com/brendo/field_metakeys.git
+[submodule "extensions/oembed_field"]
+	path = extensions/oembed_field
+	url = https://github.com/Solutions-Nitriques/oembed_field.git
+[submodule "extensions/publish_shortcuts"]
+	path = extensions/publish_shortcuts
+	url = https://github.com/symphonists/publish_shortcuts.git
